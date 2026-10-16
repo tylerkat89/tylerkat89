@@ -14,4 +14,4 @@ Fullerton College student in **Computer Information Systems**, building software
 
 **Archive resurrected. System possessed.** A retro terminal animation that rebuilds the Handshake logo from code, then declares: “ALL OF YOUR HANDSHAKES ARE BELONG TO US.” Created with ChatGPT + Codex.
 
-[Watch the animation](https://haunted-handshake-terminal.tylerkat89.chatgpt.site/) · [Download the video](https://haunted-handshake-terminal.tylerkat89.chatgpt.site/handshake.mp4)
+[Watch the animation](https://haunted-handshake-terminal.tylerkat89.chatgpt.site/)
