@@ -33,10 +33,13 @@ One device, two players, and a DIY budget that confidence cannot fix. A browser 
 
 [Play a round](https://tylerkat89.github.io/husband-vs-contractor/) · [Read the design](https://github.com/tylerkat89/husband-vs-contractor/blob/main/DESIGN.md)
 
-## Learning, with the labels left on
+## School / Fullerton College
 
-- **School — Fullerton College:** Computer Information Systems, including Python / CIS 201. Formal study adds to the field experience I bring to software.
-- **WeAreDevelopers — Entire workshop:** [workshop.01](https://github.com/tylerkat89/workshop.01) is a reserved workshop repository; implementation hasn't started. SF Stairs above is the workshop learning fork.
+Computer Information Systems, including Python / CIS 201. Formal study adds to the field experience I bring to software.
+
+## Workshops / learning in progress
+
+**WeAreDevelopers — Entire workshop:** [workshop.01](https://github.com/tylerkat89/workshop.01) is a reserved workshop repository; implementation hasn't started. SF Stairs above is the workshop learning fork.
 
 ## Experiments can have a sense of humor
 
