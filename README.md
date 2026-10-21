@@ -6,7 +6,7 @@ Fullerton College student in **Computer Information Systems**, building software
 
 - Learning: Python (CIS 201), systems thinking, product building with AI-assisted workflows
 - Looking for: school-compatible remote or transit-reachable roles in IT support, software, data, QA, or facilities ops
-- Contact: tylerkat89@gmail.com · (657) 631-4170
+- Contact: tylerkat89@gmail.com
 
 ### Haunted Handshake
 
