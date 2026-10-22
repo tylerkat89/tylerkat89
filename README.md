@@ -12,7 +12,6 @@ I find connections, seek balance, and pursue integrity. I'm interested in unders
 
 I'm still learning, still building, and sharing what I discover along the way.
 
-**[Start with FEOS](https://facilities-evidence-os.vercel.app/)** · **[The rest of my world](https://linktr.ee/themountainshinobi)** · **Let's connect**
 
 [Start with FEOS](https://facilities-evidence-os.vercel.app/) · [The rest of my world](https://linktr.ee/themountainshinobi) · [Let's connect](mailto:tylerkat89@gmail.com)
 
