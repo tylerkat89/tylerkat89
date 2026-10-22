@@ -2,11 +2,17 @@
   <img src="./assets/field-notes.svg" alt="Tyler Katayama — field notes, systems, software" width="100%">
 </p>
 
-# From mechanical rooms to software.
+# From mechanical rooms to software
 
-I'm Tyler. I spent 10+ years troubleshooting facilities and HVAC systems. Now I build software with the same habit: follow the evidence, understand the whole system, and make the next person's job easier.
+I've spent over a decade working with physical systems, troubleshooting failures, and learning what happens when the tools we're given don't solve the problems in front of us.
 
-I find connections, look for balance, and care about whether a tool holds up outside the demo.
+That curiosity eventually took me beyond mechanical equipment and into software, where I began exploring how the same principles of observation, diagnostics, and problem-solving apply.
+
+I find connections, seek balance, and pursue integrity. I'm interested in understanding how things work, why they fail, and how we can improve them.
+
+I'm still learning, still building, and sharing what I discover along the way.
+
+**[Start with FEOS](https://facilities-evidence-os.vercel.app/)** · **[The rest of my world](https://linktr.ee/themountainshinobi)** · **Let's connect**
 
 [Start with FEOS](https://facilities-evidence-os.vercel.app/) · [The rest of my world](https://linktr.ee/themountainshinobi) · [Let's connect](mailto:tylerkat89@gmail.com)
 
