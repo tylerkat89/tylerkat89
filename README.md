@@ -24,14 +24,21 @@ The building is the interface. I'm building a map-first workspace that keeps iss
 
 [Explore FEOS](https://facilities-evidence-os.vercel.app/) · [Read the project](https://github.com/tylerkat89/facilities-evidence-os)
 
-### 02 / SF Stairs
+### 02 / Watchpost
+**Personal · video monitoring and recording · privately maintained source**
+
+I built Watchpost to bring motion detection, local recording, authenticated live viewing, and remote administration into the browser. Viewing and owner controls have separate permissions, and remote changes wait for confirmation from the recording device. A public live-feed demonstration runs motion detection and recording on desktop and mobile.
+
+[Explore Watchpost](./projects/watchpost/README.md)
+
+### 03 / SF Stairs
 **WeAreDevelopers · Entire workshop · learning fork**
 
 A San Francisco stairway field guide with mapping, source attribution, and a clear distinction between surveyed counts and estimates. My copy comes from the Entire workshop and retains the upstream project's work and credits. I'm using it to study how a map earns trust in its data; I don't claim the inherited implementation as my own.
 
 [Explore the repository](https://github.com/tylerkat89/sf-stairs-map) · [Original project](https://github.com/elizabethsiegle/sf-stairs-map)
 
-### 03 / Husband vs Contractor 🔧
+### 04 / Husband vs Contractor 🔧
 **Handshake AI Skills Studio · multiplayer game challenge · playable prototype**
 
 One device, two players, and a DIY budget that confidence cannot fix. A browser game about inspecting the clues, choosing the right order, and knowing when to call the pro. My facilities background meets a Marriage Meter.
