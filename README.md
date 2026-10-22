@@ -27,7 +27,7 @@ The building is the interface. I'm building a map-first workspace that keeps iss
 ### 02 / Watchpost
 **Personal · video monitoring and recording · privately maintained source**
 
-I built Watchpost to bring motion detection, local recording, authenticated live viewing, and remote administration into the browser. Viewing and owner controls have separate permissions, and remote changes wait for confirmation from the recording device. A public live-feed demonstration runs motion detection and recording on desktop and mobile.
+I built Watchpost for browser-based video monitoring, motion detection, local recording, and passcode-protected live viewing. Its HLS adapter brings compatible public streams into the same workflow. Stream-health monitoring records interruptions, freezes, clock changes, and segment discontinuities, with exportable event logs and a JSON record alongside each clip.
 
 [Explore Watchpost](./projects/watchpost/README.md)
 
