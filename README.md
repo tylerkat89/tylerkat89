@@ -27,18 +27,25 @@ The building is the interface. I'm building a map-first workspace that keeps iss
 ### 02 / Watchpost
 **Personal · video monitoring and recording · privately maintained source**
 
-I built Watchpost for browser-based video monitoring, motion detection, local recording, and passcode-protected live viewing. Its HLS adapter brings compatible public streams into the same workflow. Stream-health monitoring records interruptions, freezes, clock changes, and segment discontinuities, with exportable event logs and a JSON record alongside each clip.
+Watchpost brings camera feeds and compatible public streams into one browser-based monitoring workflow. It combines motion detection, local recording, and passcode-protected live viewing with a record of stream interruptions, timing changes, and continuity issues. Exportable logs and per-clip metadata keep the recording connected to what the application observed.
 
 [Explore Watchpost](./projects/watchpost/README.md)
 
-### 03 / SF Stairs
+### 03 / QA Evidence Gate
+**Personal · QA process design · v0.1 concept**
+
+A protocol for keeping QA findings, evidence, and human decisions traceable when working with AI agents. Built from an audit of a real QA exercise, it separates observations from expectations, checks claims against artifacts, and preserves the reasoning behind corrections. The protocol is documented; its gates remain provisional while validation is in progress.
+
+[Read the protocol](https://github.com/tylerkat89/qa-evidence-gate)
+
+### 04 / SF Stairs
 **WeAreDevelopers · Entire workshop · learning fork**
 
 A San Francisco stairway field guide with mapping, source attribution, and a clear distinction between surveyed counts and estimates. My copy comes from the Entire workshop and retains the upstream project's work and credits. I'm using it to study how a map earns trust in its data; I don't claim the inherited implementation as my own.
 
 [Explore the repository](https://github.com/tylerkat89/sf-stairs-map) · [Original project](https://github.com/elizabethsiegle/sf-stairs-map)
 
-### 04 / Husband vs Contractor 🔧
+### 05 / Husband vs Contractor 🔧
 **Handshake AI Skills Studio · multiplayer game challenge · playable prototype**
 
 One device, two players, and a DIY budget that confidence cannot fix. A browser game about inspecting the clues, choosing the right order, and knowing when to call the pro. My facilities background meets a Marriage Meter.
