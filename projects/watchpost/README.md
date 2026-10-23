@@ -1,5 +1,7 @@
 # Watchpost
 
+**Created and designed by [Tyler Katayama](https://github.com/tylerkat89) · [Original project](https://github.com/tylerkat89/tylerkat89/tree/main/projects/watchpost)**
+
 ### Monitor the picture. Keep a record of the feed.
 
 Watchpost brings camera feeds and compatible public video streams into a single browser-based monitoring and recording system. It combines configurable motion detection, timestamped local clips, passcode-protected live viewing, and a record of changes in stream health. The built-in HLS adapter lets public streams use the same detection and recording workflow as a device camera.
@@ -23,3 +25,12 @@ Watchpost combines browser media APIs, canvas-based motion analysis, local recor
 The updated adapter and monitoring logic were inspected in source and exercised with focused Chrome checks using simulated stream events and folder writes. The screenshots show the earlier desktop and mobile public-feed demonstration. Full live-stream fault testing, long unattended operation, remote-access security regression testing, and off-device backup remain separate validation work. These records describe observable stream behavior; they do not prove footage authenticity or diagnose an attack.
 
 **Source is privately maintained.** This showcase shares the project and its interface without distributing the application.
+
+
+## Attribution
+
+If you reference or adapt Watchpost, please keep the project name and creator credit attached so others can find the original work.
+
+> Based on Watchpost by Tyler Katayama — https://github.com/tylerkat89/tylerkat89/tree/main/projects/watchpost
+
+This credit line identifies the project's origin; it does not grant a license or change existing reuse terms.
