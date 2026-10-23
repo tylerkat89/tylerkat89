@@ -1,16 +1,16 @@
 # Watchpost
 
-### Video monitoring, motion detection, and stream-health records in the browser.
+### Monitor the picture. Keep a record of the feed.
 
-Watchpost is a browser-based video monitoring and recording system. It combines configurable motion detection, timestamped local recordings, passcode-protected live viewing, and stream-health monitoring in one compact application. A built-in HLS adapter brings compatible public video streams into the same detection and recording workflow as a device camera.
+Watchpost brings camera feeds and compatible public video streams into a single browser-based monitoring and recording system. It combines configurable motion detection, timestamped local clips, passcode-protected live viewing, and a record of changes in stream health. The built-in HLS adapter lets public streams use the same detection and recording workflow as a device camera.
 
 ![Watchpost running on a public traffic feed](watchpost-desktop.png)
 
-The camera does the work. It compares changes across a configurable motion grid, records when activity crosses the selected threshold, and keeps recording for a chosen interval after movement stops. Sensitivity and ignore zones let the operator tune detection to the scene. Continuous recording is available too, with five-minute motion clips, ten-minute continuous clips, and local folder storage.
+Motion detection compares changes across a configurable grid, starts recording when activity crosses the selected threshold, and continues for a chosen interval after movement stops. Sensitivity and ignore zones let the operator tune detection to the scene. Long motion recordings split at five minutes; continuous recordings split at ten. A selected local folder stores completed clips.
 
 ![Watchpost during nighttime traffic](watchpost-traffic.png)
 
-The HLS adapter connects stream playback to a monitoring record: segment-number gaps, repeat downloads and changed ETags, source-declared discontinuities, download failures, and recoveries. Feed checks watch for pauses, frozen pictures, and changes in how far playback trails the live edge. Clock and heartbeat checks flag timing changes and an unclean previous session without claiming to know the underlying cause.
+The HLS adapter records segment gaps, repeated downloads, changes in server-provided segment identifiers, source-declared breaks, download failures, and recoveries. Feed checks watch for pauses, frozen pictures, and changes in how far playback trails the live edge. Clock and heartbeat checks flag timing changes and an unclean previous session without claiming to know the underlying cause.
 
 Each clip can carry a matching JSON record with its source, timing context, segment metadata, and events during recording. The interface distinguishes device-camera timestamps from stream-receipt timestamps. Recent events persist in browser storage and can be exported as JSONL; with a folder selected, the application also writes daily event and heartbeat files. WebRTC provides passcode-protected remote live viewing.
 
