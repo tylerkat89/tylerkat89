@@ -4,6 +4,8 @@
 
 # From mechanical rooms to software
 
+**Project creator and maintainer: [Tyler Katayama](https://github.com/tylerkat89) · [Attribution](ATTRIBUTION.md)**
+
 I've spent over a decade working with physical systems, troubleshooting failures, and learning what happens when the tools we're given don't solve the problems in front of us.
 
 That curiosity eventually took me beyond mechanical equipment and into software, where I began exploring how the same principles of observation, diagnostics, and problem-solving apply.
