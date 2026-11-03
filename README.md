@@ -24,7 +24,7 @@ I'm still learning, still building, and sharing what I discover along the way.
 
 The building is the interface. I'm building a map-first workspace that keeps issues, vendors, photo evidence, inventory, and budgets attached to the place they belong. It comes directly from the work I know: walking a property, finding the problem, and making sure the next person has the context.
 
-[Explore FEOS](https://facilities-evidence-os.vercel.app/) · [Read the project](https://github.com/tylerkat89/facilities-evidence-os)
+[Explore FEOS](https://facilities-evidence-os.vercel.app/) · [Read the project](https://github.com/tylerkat89/facilities-evidence-os-showcase)
 
 ### 02 / Watchpost
 **Personal · video monitoring and recording · privately maintained source**
@@ -60,7 +60,7 @@ Computer Information Systems, including Python / CIS 201. Formal study adds to t
 
 ## Workshops / learning in progress
 
-**WeAreDevelopers — Entire workshop:** [workshop.01](https://github.com/tylerkat89/workshop.01) is a reserved workshop repository; implementation hasn't started. SF Stairs above is the workshop learning fork.
+**WeAreDevelopers — Entire workshop:** SF Stairs above is the workshop learning fork.
 
 ## Experiments can have a sense of humor
 
